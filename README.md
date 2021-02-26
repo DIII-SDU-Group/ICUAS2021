@@ -1,6 +1,8 @@
+# Code for "Survey and Evaluation of Sensors for Overhead Cable Detection using UAVs", ICUAS 2021 submission
+Datasets available at DOI 10.5281/zenodo.4563991 (https://zenodo.org/record/4563991)
+
 # cable_estimators
 Estimates overhead power line cable position based on sensor data
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
